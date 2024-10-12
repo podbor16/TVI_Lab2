@@ -1,0 +1,3 @@
+C:/Users/podbo/CLionProjects/TVI_Lab2/cmake-build-debug/CMakeFiles/TVI_Lab2.dir
+C:/Users/podbo/CLionProjects/TVI_Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/podbo/CLionProjects/TVI_Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
